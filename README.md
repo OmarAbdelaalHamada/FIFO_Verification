@@ -77,10 +77,3 @@ The verification plan includes:
 - **Assertions**: Verify the FIFO behaves as expected, particularly in edge cases (e.g., full and empty conditions).
 - **Error tracking**: Log errors related to overflow/underflow conditions and data mismatches.
 
-## Submission Files
-
-- **PDF**: The project report highlighting FIFO's functionality, detected bugs, and coverage results.
-- **Do file**: `run.do` to compile and simulate the design.
-- **Source code**: SystemVerilog design and testbench files.
-- **Assertions**: Added assertions to monitor and ensure correct FIFO behavior.
-
